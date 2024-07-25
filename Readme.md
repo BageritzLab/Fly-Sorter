@@ -1,6 +1,6 @@
 # Fly Sorter
 ---
-![image]("https://github.com/BageritzLab/Fly-Sorter/edit/main/](https://github.com/BageritzLab/Fly-Sorter/tree/main/New%20folder)New%20Folder/20240723_105924.jpg](https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_105924.jpg?raw=true)")
+![image]("20240723_105924.jpg")
 
 This is the hand-held Fly Sorter which increases the speed with which *Drosophila* flies can be sorted (e.g. into male and female or by phenotype).
 
