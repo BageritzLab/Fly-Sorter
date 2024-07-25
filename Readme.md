@@ -1,9 +1,9 @@
 # Fly Sorter
 ---
-<img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_105924.jpg" alt="drawing" width="200"/>
-<img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_105933.jpg" alt="drawing" width="200"/>
-<img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_110525.jpg" alt="drawing" width="200"/>
-<img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_110532.jpg" alt="drawing" width="200"/>
+| | |
+|-|-|
+|<img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_105924.jpg" alt="drawing" width="200"/>| <img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_105933.jpg" alt="drawing" width="200"/>|
+|<img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_110525.jpg" alt="drawing" width="200"/>|<img src="https://github.com/BageritzLab/Fly-Sorter/blob/main/New%20folder/20240723_110532.jpg" alt="drawing" width="200"/>|
 
 This is the hand-held Fly Sorter which increases the speed with which *Drosophila* flies can be sorted (e.g. into male and female or by phenotype).
 
