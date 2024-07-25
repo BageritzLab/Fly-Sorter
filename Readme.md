@@ -13,5 +13,4 @@ There are two versions of the Fly Sorter:
 
 Please see the [Building Instructions](https://docs.google.com/document/d/15dwhqNPN-IYihsDtu09y4-i83bKWOhseYIVJSIRqwcc/edit?usp=sharing) for more information.
 
-
-
+In our Tests flies that have been sorted 7 consecutive times have not displayed any adverse effects.
