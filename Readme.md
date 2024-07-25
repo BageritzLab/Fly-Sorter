@@ -1,6 +1,6 @@
 # Fly Sorter
 ---
-![image]("./New\ Folder/20240723_105924.jpg")
+![image]("./New%20Folder/20240723_105924.jpg")
 
 This is the hand-held Fly Sorter which increases the speed with which *Drosophila* flies can be sorted (e.g. into male and female or by phenotype).
 
